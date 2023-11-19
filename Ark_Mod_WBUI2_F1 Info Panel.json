@@ -6,7 +6,7 @@
             "HideIconAfter": 60,
             "DisableIconText": false,
             "IconPosition": 0,
-            "IconTextColor": 5,
+            "IconTextColor": 7,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 12
@@ -57,3 +57,4 @@
         ]
     }
 }
+
