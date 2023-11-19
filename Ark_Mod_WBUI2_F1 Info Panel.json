@@ -47,12 +47,11 @@
             {
                 "tab5": {
                     "layout": 1,
-                    "buttontext": "Settings",
+                    "buttontext": "Server Settings",
                     "title1": "",
-                    "text1": "<TextStyle.LightBlue>General Settings</>\n\n- Starter packs in White drops\n- 30 min ORP timer\n- 150 wild dinos\n- 4 man tribe limit (no ally)\n- 4x XP\n- 4x Harvest\n- 8x Taming w/ x2 wild dino food drain\n- Slow player food/water drain\n- Engrams auto-unlock as you level (boss fights required for tek)\n- Custom stack sizes\n- 1/2 craft ingots and ARB\n- Easier craft on spyglass and beds\n- Flak: Armor 820, Dura 1200\n- Shotgun/Fabi: Damage 350% \n- Saddles: Armor 205 \n- Possible 3-month wipe schedule (may include player vote)\n\n<TextStyle.LightBlue>Breeding Settings</>\n\n"
+                    "text1": "<TextStyle.LightBlue>General</>\n\n- Starter packs in White drops\n- 30 min ORP timer\n- 150 wild dinos\n- 4 man tribe limit (no ally)\n- 4x XP\n- 4x Harvest\n- 8x Taming w/ x2 wild dino food drain\n- Slow player food/water drain\n- Engrams auto-unlock as you level (boss fights required for tek)\n- Custom stack sizes\n- 1/2 craft ingots and ARB\n- Easier craft on spyglass and beds\n- Flak: Armor 820, Dura 1200\n- Shotgun/Fabi: Damage 350% \n- Saddles: Armor 205 \n- Possible 3-month wipe schedule (may include player vote)\n\n<TextStyle.LightBlue>Breeding</>\n\n-1-3h timer\n-30x maturation\n-1 imprint (ready in ~1m)\n\n<TextStyle.LightBlue>Building/Raiding</>\n\n-250 turret limit\n- 6x cave damage\n\n<TextStyle.LightBlue>Player/Dino Stats</>\n\n-Players: Weight and fortitude are boosted\n- Dinos: Weight is boosted\n\n<TextStyle.LightBlue>Drops/Beaver Dams</>\n\n- White Drops contain Starter Packs, the rest are default for now\n- Beaver Dams: Cementing paste, element, silica pearls, rare flowers/mushrooms, skins, and chibis (no wood!)"
                 }
             }
         ]
     }
 }
-
