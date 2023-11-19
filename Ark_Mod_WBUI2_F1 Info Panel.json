@@ -3,7 +3,7 @@
         "settings": {
             "OpenButton": 0,
             "HideIcon": true,
-            "HideIconAfter": 60,
+            "HideIconAfter": 1,
             "IconURL": "https://i.imgur.com/J9Pd58K.png",
             "DisableIconText": false,
             "IconPosition": 0,
@@ -22,15 +22,15 @@
                 }
             },
             {
-                "tab1": {
+                "tab2": {
                     "layout": 1,
                     "buttontext": "General Rules",
                     "title1": "General Rules",
-                    "text1": "\nG1. Green Ob is a no PVP zone, you can do your boss fights there. Any admin-built structures are off-limits. Impersonating admins in any form will result in a ban.\n\nG2. No Human, Humano, Survivor, 123, 321 or other dumb names (make a new character if needed). Tribe names required and must be named appropriately (no racism, slurs, bunch of numbers, stupid characters, etc).\n\nG3. No cheating, meshing, or other exploits.\n\nG4. No abuse of ORP settings.\n\nG5. Be kind to new players, don't chase them off. No picking/dropping or attacking them/their dinos. If they're on or around the beaches, consider them \"new\".\n\nG6. This is a chill PvP server and we expect everyone to treat each other with respect. Shit talking is fine, toxic players/behavior will not be tolerated. We're here to have fun, not repeat the toxicity of ASE."
+                    "text1": "\nG1. Green Ob is a no PVP zone, you can do your boss fights there. Any admin-built structures are off-limits. Impersonating admins in any form will result in a ban.\n\nG2. No Human, Humano, Survivor, 123, 321 or other dumb names (make a new character if needed). Tribe names required and must be named appropriately (no racism, slurs, bunch of numbers, special characters, etc).\n\nG3. No cheating, meshing, or other exploits.\n\nG4. No abuse of ORP settings.\n\nG5. Be kind to new players, don't chase them off. No picking/dropping or attacking them/their dinos. If they're on or around the beaches, consider them \"new\".\n\nG6. This is a chill PvP server and we expect everyone to treat each other with respect. Shit talking is fine, toxic players/behavior will not be tolerated. We're here to have fun, not repeat the toxicity of ASE."
                 }
             },
             {
-                "tab2": {
+                "tab3": {
                     "layout": 1,
                     "buttontext": "Building Rules",
                     "title1": "Building Rules",
@@ -38,7 +38,15 @@
                 }
             },
             {
-                "tab3": {
+                "tab4": {
+                    "layout": 1,
+                    "buttontext": "Raiding Rules",
+                    "title1": "Raiding Rules",
+                    "text1": "\nR1. No team raiding - you can only raid with your tribe (allies disabled). Tribe members have to be a part of your tribe for a minimum of 24 hours before they can participate in a raid.\n\nNo repetitive/back-to-back raiding of the same tribe to the point where it becomes toxic.\n\nNo popcorning during raids (either side, in any form). Be a good sport!\n\nNo trapping players inside their base or FOBs with turrets/structures/dinos or building into another tribes base; tribes must be able to physically exit and rebuild defenses.\n\nNo harpoon, cannon, ballista, or magmasaur raiding."
+                }
+            },
+            {
+                "tab5": {
                     "layout": 1,
                     "buttontext": "Settings",
                     "title1": "INI settings:",
