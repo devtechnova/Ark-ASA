@@ -2,7 +2,7 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 0,
-            "HideIcon": false,
+            "HideIcon": true,
             "HideIconAfter": 60,
             "IconURL": "https://i.imgur.com/J9Pd58K.png",
             "DisableIconText": false,
@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Welcome",
                     "title1": "Welcome to a chill PvP server!",
-                    "text1": "We're here to have fun, not repeat the toxicity of ASE. The goal is for raiding and open world PvP to be fun again! \n\nPlease read through the rules as we will hold players to them. Grab a starter pack from White drops and start grinding!"
+                    "text1": "We're here to have fun, not repeat the toxicity of ASE. The goal is for raiding and open world PvP to be fun again! \n\nPlease read through the rules as we will hold players to them. \n\nGrab a starter pack from White drops and start grinding!"
                 }
             },
             {
@@ -26,21 +26,20 @@
                     "layout": 1,
                     "buttontext": "General Rules",
                     "title1": "General Rules",
-                    "text1": "\nG1. Green Ob is a no PVP zone, you can do your boss fights there. Any admin-built structures are off-limits. Impersonating admins in any form will result in a ban.\nG2. No Human, Humano, Survivor, 123, 321 or other dumb names. Tribe names required and must be named appropriately (no racism, slurs, bunch of numbers, stupid characters, etc).\nG3. No cheating, meshing, or other exploits.\nG4. No abuse of ORP settings.\nG5. Be kind to new players, don't chase them off. No picking/dropping or attacking them/their dinos. If they're on or around the beaches, consider them \"new\".\nG6. This is a chill PvP server and we expect everyone to treat each other with respect. Shit talking is fine, toxic players/behavior will not be tolerated. We're here to have fun, not repeat the toxicity of ASE."
+                    "text1": "\nG1. Green Ob is a no PVP zone, you can do your boss fights there. Any admin-built structures are off-limits. Impersonating admins in any form will result in a ban.\n\nG2. No Human, Humano, Survivor, 123, 321 or other dumb names (make a new character if needed). Tribe names required and must be named appropriately (no racism, slurs, bunch of numbers, stupid characters, etc).\n\nG3. No cheating, meshing, or other exploits.\n\nG4. No abuse of ORP settings.\n\nG5. Be kind to new players, don't chase them off. No picking/dropping or attacking them/their dinos. If they're on or around the beaches, consider them \"new\".\n\nG6. This is a chill PvP server and we expect everyone to treat each other with respect. Shit talking is fine, toxic players/behavior will not be tolerated. We're here to have fun, not repeat the toxicity of ASE."
                 }
             },
             {
                 "tab2": {
-                    "layout": 2,
+                    "layout": 1,
                     "buttontext": "Building Rules",
                     "title1": "Building Rules",
-                    "text1": "\nB1. No building on/near major resources, artifact caves, notes, obelisks, boss areas/arenas, rare/unique dino spawn zones or nests, drops, other bases, or player spawn zones.\nB2. ONE base and ONE outpost per tribe. Turrets/dinos can only be at your base or outpost and cannot be restricting access to areas mentioned in B1.\nB3. Clean up ALL traps, starter bases, rafts, temp builds, FOBs (within 24hrs), etc. Infinite pickup is enabled, please utilize it and help reduce server lag!\nB4. No structure spam. Anti-FOB spam can only be placed up to 40 snapped foundation spaces away from your base entrance and cannot be excessive.\nB5. No dino builds covering the body (must be able to be shot/killed).",
-                    "imageurl": "https://i.imgur.com/J9Pd58K.png"
+                    "text1": "\nB1. No building on/near major resources, artifact caves, notes, obelisks, boss areas/arenas, rare/unique dino spawn zones or nests, drops, other bases, or player spawn zones.\n\nB2. ONE base and ONE outpost per tribe. Turrets/dinos can only be at your base or outpost and cannot be restricting access to areas mentioned in B1.\n\nB3. Clean up ALL traps, starter bases, rafts, temp builds, FOBs (within 24hrs), etc. Infinite pickup is enabled, please utilize it and help reduce server lag/load times!\n\nB4. No structure spam. Anti-FOB spam can only be placed up to 40 snapped foundation spaces away from your base entrance and cannot be excessive.\n\nB5. No dino builds covering the body (must be able to be shot/killed)."
                 }
             },
             {
                 "tab3": {
-                    "layout": 2,
+                    "layout": 1,
                     "buttontext": "Settings",
                     "title1": "INI settings:",
                     "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update",
