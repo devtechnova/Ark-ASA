@@ -7,7 +7,7 @@
             "IconURL": "https://i.imgur.com/PjeguJk.png",
             "DisableIconText": false,
             "IconPosition": 0,
-            "IconTextColor": 7,
+            "IconTextColor": 8,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 12
