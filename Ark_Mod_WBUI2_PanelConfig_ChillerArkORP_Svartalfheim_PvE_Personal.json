@@ -1,0 +1,50 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/qFuIvPP.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 3,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 1
+          },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome!",
+                    "text1": "<TextStyle.LightBlue>Welcome to Chiller Ark ORP, a chill PvP server with offline raid protection! We're here to have fun, not repeat the toxicity of ASE.</>\n\n<TextStyle.LightBlue>Please read through our server rules (see tabs above) and decide if this is the right server for you (we will hold players to these rules).</>\n\n<TextStyle.LightBlue>Grab a starter pack from Green drops and start grinding!</>"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "General Rules",
+                    "title1": "General Rules",
+                    "text1": "All players are bound by the rules below. Please note that violating server rules can lead to tribe wipes and/or bans (especially cheats or repeats). Rules are subject to change; by continuing to play on Chiller, you agree to all current and future rule updates. Admins have final say in what counts as a rule violation.\n\nG1. No Human, Humano, Survivor, 123, 321 or other generic or inappropriate character names. Tribe names are required, must be original and named appropriately (no racism, slurs, bunch of numbers or characters, mimicking other tribes, etc).\n\nG2. No cheating, meshing, or other exploits.\n\nG3. No abuse of ORP or PvE settings.\n\nG4. No caging/trapping or picking/dropping of other players/tamed dinos.\n\nG6. No offline breeding - disable mating before you log off!\n\nG7. Keep the number of uncryo'd dinos to a minimum.\n\nG8. Admins will not get involved in any tribe drama, issues, disputes, etc. You are who you tribe with and you should be careful who you invite.\n\nG9. We expect everyone to treat each other with respect here. Swearing and shit talking is fine (we do it, too!), but toxic people/behavior will not be tolerated... just be chill! Making false statements about admins or the server can get you banned. Impersonating admins/staff in any form is grounds for immediate ban."
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "Building Rules",
+                    "title1": "Building Rules",
+                    "text1": "\nB1. No build zones: artifact caves, major resources, notes, obs, boss areas/arenas, rare dino spawn zones/nests, drops, other tribes, or player spawn zones (pearl caves on The Island are OK to build in).\n\nB2. ONE base + ONE farming outpost (not in a good base spot or restricting access to areas in B1) per tribe. Spamming or blocking off a base location that you are not basing in is not permitted.\n\nB3. Clean up ALL traps, starter bases, rafts, temp builds, etc. Infinite pickup is enabled, please utilize it and help reduce server lag/load times!\n\nB4. No structure spam. Keep gates to a minimum - they're more expensive, USE HEAVIES AND ARB (both 1/2 craft cost!)."
+                }
+            },
+            {
+                "tab5": {
+                    "layout": 1,
+                    "buttontext": "Server Settings",
+                    "title1": "",
+                    "text1": "<TextStyle.LightBlue>General</>\n- Starter packs in White drops\n- 15 min ORP timer\n- 150 wild dinos\n- 4 man tribe limit (no ally)\n- 4x XP\n- 4x Harvest\n- 8x Taming w/ x2 wild dino food drain\n- Slow player food/water drain\n- Engrams auto-unlock as you level (boss fights required for tek)\n- Custom stack sizes (ini only, no stack mod)\n- 1/2 craft ingots, heavies, ARB\n- Easier craft on spyglass and beds\n- Possible 3 to 6 month wipe schedule (will poll the players)\n\n<TextStyle.LightBlue>Breeding</>\n- 30x maturation\n- 15m imprint\n\n<TextStyle.LightBlue>Building</>\n- 100 turret limit\n-10x turret damage + 1/2 craft ARB and heavies\n-5x structure strength\n-Infinite pickup\n\n<TextStyle.LightBlue>Player/Dino Stats</>\n- Players: Weight and fortitude are boosted\n- Dinos: Weight is boosted\n\n<TextStyle.LightBlue>Drops/Beaver Dams</>\n- White Drops contain Starter Packs, the rest are default for now\n- Beaver Dams: Cementing paste, element, dedis, silica pearls, crops, rare flowers/mushrooms, skins, and chibis (no wood!)"
+                }
+            }
+        ]
+    }
+}
