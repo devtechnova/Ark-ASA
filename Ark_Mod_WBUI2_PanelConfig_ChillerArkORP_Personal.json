@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Welcome",
                     "title1": "Welcome!",
-                    "text1": "<TextStyle.LightBlue>Welcome to a chill PvP server! We're here to have fun, not repeat the toxicity of ASE.</>\n\n<TextStyle.LightBlue>Please read through our server rules (see tabs above) and decide if this is the right server for you (we will hold players to these rules).</>\n\n<TextStyle.LightBlue>Grab a starter pack from White drops and start grinding!</>"
+                    "text1": "<TextStyle.LightBlue>Welcome to Chiller Ark ORP, a chill PvP server with offline raid protection! We're here to have fun, not repeat the toxicity of ASE.</>\n\n<TextStyle.LightBlue>Please read through our server rules (see tabs above) and decide if this is the right server for you (we will hold players to these rules).</>\n\n<TextStyle.LightBlue>Grab a starter pack from White drops and start grinding!</>"
                 }
             },
             {
@@ -34,7 +34,7 @@
                     "layout": 1,
                     "buttontext": "Building Rules",
                     "title1": "Building Rules",
-                    "text1": "\nB1. No build zones: artifact caves, major resources, notes, obs, boss areas/arenas, rare dino spawn zones/nests, drops, other tribes, or player spawn zones (pearl caves on The Island are OK to build in).\n\nB2. ONE base + ONE farming outpost (not in a good base spot) per tribe. Turrets/dinos can only be at your base or outpost and cannot be restricting access to areas mentioned in B1. Spamming or blocking off a base location that you are not basing in is not permitted.\n\nB3. Clean up ALL traps, starter bases, rafts, temp builds, FOBs (within 24hrs), etc. Infinite pickup is enabled, please utilize it and help reduce server lag/load times!\n\nB4. No structure spam. Anti-FOB spam can only be placed up to 40 snapped foundation spaces away from your base entrance and cannot be excessive.\n\nB5. No dino builds covering the body (must be able to be shot/killed).\n\nB5. No mesh bases. This includes, but IS NOT limited to: tame-only entrances (e.g. a Pelagornis hole), knockout, zipline, tek punching, grapple spots, etc. Mesh bases are grounds for immediate tribe wipe and ban."
+                    "text1": "\nB1. No build zones: artifact caves, major resources, notes, obs, boss areas/arenas, rare dino spawn zones/nests, drops, other tribes, or player spawn zones (pearl caves on The Island are OK to build in).\n\nB2. ONE base + ONE farming outpost (not in a good base spot) per tribe. Turrets/dinos can only be at your base or outpost and cannot be restricting access to areas mentioned in B1. Spamming or blocking off a base location that you are not basing in is not permitted.\n\nB3. Clean up ALL traps, starter bases, rafts, temp builds, FOBs (within 24hrs), etc. Infinite pickup is enabled, please utilize it and help reduce server lag/load times!\n\nB4. No structure spam. Anti-FOB spam can only be placed up to 40 snapped foundation spaces away from last tower and cannot be excessive.\n\nB5. No dino builds covering the body (must be able to be shot/killed).\n\nB5. No mesh bases. This includes, but IS NOT limited to: tame-only entrances (e.g. a Pelagornis hole), knockout, zipline, tek punching, grapple spots, etc. Mesh bases are grounds for immediate tribe wipe and ban."
                 }
             },
             {
