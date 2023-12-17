@@ -1,0 +1,40 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/qFuIvPP.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 3,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 1
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome!",
+                    "text1": "<TextStyle.LightBlue>Welcome to Chiller Ark ORP, a chill PvE server with offline raid protection! </>\n\n<TextStyle.LightBlue>Please read through our server rules (click Rules button below) and decide if this is the right server for you (we will hold players to these rules).</>\n\n<TextStyle.LightBlue>If so, grab a starter pack from Green drops and come chill with us!</>"
+                }
+            }
+        ],
+        "links": [
+        {
+            "link1": {
+            "text": "Rules",
+            "url": "https://sites.google.com/view/chillerark/orppverules"
+            }
+        },
+        {
+            "link2": {
+            "text": "Settings",
+            "url": "https://sites.google.com/view/chillerark/orppvesettings"
+            }
+        }
+        ]
+    }
+}
